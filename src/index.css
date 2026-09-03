@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-belwe {
+    font-family: 'Belwe Bd BT', 'Belwe Bold', 'Belwe', 'Cinzel Decorative', 'Cinzel', 'Copperplate', 'Georgia', serif;
+  }
+}
